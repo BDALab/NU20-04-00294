@@ -6,4 +6,4 @@ The main goal of this multidisciplinary project is to extend the knowledge in th
 
 *It is supposed that the final version of the software will be released in 2023, nevertheless, some key parts (e.g. extraction of features) can be already used.*
 
-*Development of this software is supported by Ministry of Health of the Czech Republic, grant nr. NU20-04-00294. All rights reserved.*
+*Development of this software is supported by Ministry of Health of the Czech Republic, grant nr. NU20-04-00294 (https://starfos.tacr.cz/en/project/NU20-04-00294). All rights reserved.*
